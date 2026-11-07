@@ -1,0 +1,7 @@
+{
+  "package_name": "coreutils",
+  "type": "cli",
+  "version": "1.0",
+  "entry_file": "coreutils.nx.sprite3",
+  "commands": ["env", "echo", "ps", "clear"]
+}
